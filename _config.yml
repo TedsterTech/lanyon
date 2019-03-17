@@ -9,8 +9,8 @@ permalink:        pretty
 title:            \> Your Name Here
 tagline:          '\"something mathy\"'
 description:      'Look ma, I have a website!'
-url:              https://seanbehan.dev/
-baseurl:          lanyon
+url:              'https://seanbehan.dev/lanyon/'
+baseurl:          'lanyon/'
 
 author:
   name:           'Mark Otto'
