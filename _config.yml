@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            > Your Name Here
+title:            \> Your Name Here
 tagline:          '\"something mathy\"'
 description:      'Look ma, I have a website!'
 url:              https://codebam.github.io/lanyon
